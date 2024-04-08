@@ -10,3 +10,4 @@ Steps to use the app;
 To run the app as a Docker container
 1. Build the Docker Image with the DockerFile provided using the command "_docker build -t app_coding_test ._" (The image is created with the name "_app_coding_test_")
 2. Run the Docker Image "_app_coding_test_" with "_docker run -d -p 5000:5000 app_coding_test_"
+3. Navigate to "http://localhost:5000"
